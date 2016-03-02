@@ -1,0 +1,3 @@
+[submodule "deps/mysqlcat"]
+	path = deps/mysqlcat
+	url = git@github.com:red-chen/mysqlcat.git
